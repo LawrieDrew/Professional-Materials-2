@@ -5,7 +5,7 @@ Professional Materials
 ![Screenshot](assets/ScreenShot1.jpg)
 
 -------------
-Updated Developer Website, including links to most my up-to-date professional resume, LinkedIn profile, GitHub and Github repositories with most recent works of which I am proud. 
+Second update to my Developer Website, including links to most my up-to-date professional resume, LinkedIn profile, GitHub and Github repositories with most recent works of which I am proud up to and including the second capstone project of this course. 
 
 This application uses dynamic css and html with some incorporated bootstrap javascript. 
 
@@ -16,6 +16,7 @@ I wanted to feature my most successful projects and assignments to date in my we
 -------------
 
 ![Screenshot](assets/ScreenShot2.jpg) ![Screenshot](assets/ScreenShot3.jpg)
+![Screenshot](assets/ScreenShot5.jpg)
 
 -------------
 
@@ -33,6 +34,7 @@ For the updated version of my portfolio, I made the conscious decision to opt fo
 
 In addition to my main GitHub site being linked, which provides access to my featured repositories, clicking on any of the images featured on my portfolio feed will take the potential professional connections to the respective deployed application website. Additionally, my weighty tome of a resume is fully downloadable/printable in PDF form. 
 
-[Deployed website](https://github.com/LawrieDrew/Professional-Materials-2.git)
+[Deployed website](https://lawriedrew.github.io/Professional-Materials-2/)
 
-[Github URL](https://github.com/LawrieDrew/Professional-Materials.git)
+[Github URL](https://github.com/LawrieDrew/Professional-Materials-2.git)
+
