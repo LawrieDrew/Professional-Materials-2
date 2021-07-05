@@ -5,7 +5,7 @@ Professional Materials
 ![Screenshot](assets/ScreenShot1.jpg)
 
 -------------
-Second update to my Developer Website, including links to most my up-to-date professional resume, LinkedIn profile, GitHub and Github repositories with most recent works of which I am proud up to and including the second capstone project of this course. 
+Second update to my Developer Website, including links to most my up-to-date professional resume, LinkedIn profile, GitHub and Github repositories with most recent works of which I am proud- up to and including the second capstone project of this course. 
 
 This application uses dynamic css and html with some incorporated bootstrap javascript. 
 
@@ -15,8 +15,9 @@ I wanted to feature my most successful projects and assignments to date in my we
 
 -------------
 
-![Screenshot](assets/ScreenShot2.jpg) ![Screenshot](assets/ScreenShot3.jpg)
+![Screenshot](assets/ScreenShot2.jpg) 
 ![Screenshot](assets/ScreenShot5.jpg)
+![Screenshot](assets/ScreenShot3.jpg)
 
 -------------
 
@@ -38,3 +39,13 @@ In addition to my main GitHub site being linked, which provides access to my fea
 
 [Github URL](https://github.com/LawrieDrew/Professional-Materials-2.git)
 
+[License]
+
+Copyright &copy; 2021 Lauren Drew
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+© 2021 GitHub, Inc.
