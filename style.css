@@ -1,0 +1,67 @@
+
+:root {
+    background-color: #fafafa;
+    color:#161a14;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    }
+    
+    header {
+    margin-top: 5%;
+    margin-bottom: 3%;
+    width: 100%;
+    text-align: center;
+    }
+    
+    #bio img {
+        border: 5px solid #161a14;
+        border-radius: 50%;
+        width: 100%;
+        align: center;
+        margin-top: 2%;
+    }
+    
+    
+    .flex-container {
+        border: 5px #161a14;
+    }
+    
+    .row {
+        display: flex;
+        border: 5px #161a14;
+    }
+    
+    .column {
+        flex: 50%;
+        padding: 5px;
+        border: 5px #161a14;
+    }
+    
+    @media screen and (max-width: 50px) {
+        .column {
+            width: 100%;
+        }
+    }
+    
+    .contact {
+        text-align: center;
+        size: 20px; 
+        width: 100%;
+        background:#fafafa;
+    }
+    
+    .fontawesome {
+        
+        margin-top: 5%;
+        margin-bottom: 3%;
+        width: 50%;
+        text-align: center;
+        padding: 10px;
+    }
+    
+    footer  {
+        padding: 30px;
+        clear: both;
+        text-align: center;
+        font-size: 15px;
+    }
